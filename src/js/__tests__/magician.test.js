@@ -1,4 +1,5 @@
 import Magician from '../classes/magician';
+
 test('Need to create an object of the Magician class with a set of properties', () => {
   const magician = {
     name: 'Ivan',
